@@ -2,7 +2,7 @@
 
 Welcome to the Power BI Global Superstore Sales Report! This GitHub project showcases a Power BI report on Global Super Store Sales, offering dynamic visualizations of sales across various geographical levels. Dive into insightful charts and graphs, including a breakdown of shipping cost based on different shipping modes. Explore the world of data-driven insights and enhance your understanding of sales dynamics in just a few clicks! 
 
-
+Video explanation: https://drive.google.com/file/d/1B_1SptaYd3CzUEmx-HQbczO58NYW_pjM/view?usp=sharing
 
 ![Screenshot 2023-12-22 230320](https://github.com/Archanajs2001/Power-BI-Global_Superstore/assets/154094021/671e6759-6c6b-4842-9455-3bd2fd068669)
 
